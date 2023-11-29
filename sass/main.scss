@@ -15,8 +15,8 @@
 @import "layout/grid";
 @import "components/composition";
 @import "components/feature-box";
-
-
+@import "components/card";
+@import "components/story";
 
 
 
@@ -34,7 +34,7 @@ html{
 }
 body{
     
-    box-sizing: border-box
+    box-sizing: border-box;
 }
 
 
