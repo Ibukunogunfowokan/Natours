@@ -21,28 +21,21 @@
 @import "components/card";
 @import "components/story";
 @import "components/bg-video";
-@import "components/form"; 
+@import "components/form";
 @import "components/popup";
-
-
 
 *,
 *::after,
-*::before{
-    margin: 0;
-    padding: 0;
-    box-sizing: inherit;
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
 }
 
-html{
-    //this defines 1rem
-    font-size: 62.5%;
+html {
+  //this defines 1rem
+  font-size: 62.5%;
 }
-body{
-    
-    box-sizing: border-box;
+body {
+  box-sizing: border-box;
 }
-
-
-
-
